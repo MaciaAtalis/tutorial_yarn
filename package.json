@@ -1,0 +1,9 @@
+{
+  "name": "mi-first-yarn-app",
+  "version": "1.0.0",
+  "description": "how to create yarn app tutorial",
+  "main": "index.js",
+  "repository": "http://github.com",
+  "author": "MaciaAtalis <macia@atalisfunding.com>",
+  "license": "MIT"
+}
